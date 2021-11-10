@@ -1,4 +1,5 @@
 package testagain;
+//Multiple inheritence
 
 interface Backend {
 
